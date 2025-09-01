@@ -1,3 +1,6 @@
+---
+title: JackPoint Login
+---
 \[root@arch ~]$ jkpt
 Connecting to JackPoint VPN... OK
 Spoofing identity... OK
@@ -13,6 +16,6 @@ You're in. Use it well.
 
 \<jdoe@jkpt ~>$ ls
 
-[[Character Index Page|'1 - Characters/']]
-[['2 - World/']]
-[['3 - Episodes/']]
+[[1 - Characters/|'1 - Characters/']]
+[[2 - World/|'2 - World/']]
+[[3 - Episodes/|'3 - Episodes/']]
