@@ -3,10 +3,10 @@ aliases:
 ---
 ![[welcome to the shadows.png]]
 # Party
+- [[Ghost Viper]], elf richboy
 - [[Spark]], satyr street samurai
 - [[Detox]], human rigger
 - [[Jane Doe]], human femcel
-- [[Ghost Viper]], elf richboy
 # Summary
 The party got a job from [[Mr Johnson (Soyburger)|Mr Johnson]] to investigate the rival soyburger joint, [[Out-N-In]]. After making some introductions, [[Ghost Viper]] and his eccentricities stealing the show. Making their way over to the place, they noticed [[The Ancients]] slinging drugs outside their territory. While the others gathered preliminary information, [[Ghost Viper]] talked his way into the secret novacoke lab underneath the restaurant, getting a solid look at all the books to pass off to the rival gangs ([[The Blood Brothers]]) in order to sabotage the business. On their way out, though, they were attacked by a pair of [[The Blood Brothers|Blood Brothers]], though with [[Spark]]'s shooting, [[Jane Doe|Jane]]'s spells, and [[Detox]]'s armed drones, they only survived a few seconds. The [[Out-N-In]] lasted only a week longer.
 
