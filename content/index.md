@@ -1,13 +1,13 @@
 ---
 title: JackPoint Login
 ---
-\[root@arch ~]$ jkpt
-Connecting to JackPoint VPN... OK
-Spoofing identity... OK
-Generating encryption keys... OK
+\[root@arch ~]$ jkpt\
+Connecting to JackPoint VPN... OK\
+Spoofing identity... OK\
+Generating encryption keys... OK\
 Connecting to onion routers... OK
 
-user: \*\*\*\*\*\*\*\*\*\*
+user: \*\*\*\*\*\*\*\*\*\*\
 pass: \*\*\*\*\*\*\*\*\*\*
 
 Scanning biometric data... \[■■■■■■■■■■] OK
