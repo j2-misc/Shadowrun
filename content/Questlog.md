@@ -16,6 +16,9 @@ kanban-plugin: board
 
 ## To-do
 
+- [ ] Intercept the [[The Blood Brothers|Blood Brothers]] convoy in 3 days
+- [ ] (Optional) Steal the [[BTLs]]
+- [ ] Make sure they know it was [[The Ancients]] behind the attack
 
 
 ## Backlog
