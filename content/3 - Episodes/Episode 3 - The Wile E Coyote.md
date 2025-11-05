@@ -1,3 +1,4 @@
+![[Wile E Coyote.png]]
 # Party
 - [[Ghost Viper]], elf richboy
 - [[Spark]], satyr street samurai
